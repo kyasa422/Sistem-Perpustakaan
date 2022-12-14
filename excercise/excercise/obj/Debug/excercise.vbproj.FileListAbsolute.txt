@@ -1,0 +1,53 @@
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.exe.config
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.exe
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.pdb
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\System.Buffers.dll
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\Google.Protobuf.pdb
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\System.Memory.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.HapusKoleksi.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.infoTambahKoleksi.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.Login.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.Resources.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.Perpus.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.Register.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.tambahKoleksi.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.updateKoleksi.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.CopyComplete
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.exe
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.pdb
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\bin\Debug\excercise.exe.config
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\bin\Debug\excercise.exe
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\bin\Debug\excercise.pdb
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\bin\Debug\excercise.xml
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\bin\Debug\System.Buffers.dll
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.vbproj.AssemblyReference.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.HapusKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.infoTambahKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.Login.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.Resources.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.Perpus.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.Register.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.tambahKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.updateKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.vbproj.GenerateResource.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.vbproj.CoreCompileInputs.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.vbproj.CopyComplete
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.exe
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.xml
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\pertemuan 12 mysql\pertemuan 2\excercise\excercise\obj\Debug\excercise.pdb
